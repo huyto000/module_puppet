@@ -1,0 +1,37 @@
+{
+  "name": "udzura-report_slack2",
+  "version": "0.3.0",
+  "author": "Uchio Kondo",
+  "summary": "Yet another slack report processor",
+  "license": "MIT",
+  "source": "https://github.com/udzura/puppet-report_slack2.git",
+  "project_page": "https://github.com/udzura/puppet-report_slack2",
+  "issues_url": "https://github.com/udzura/puppet-report_slack2/issues",
+  "dependencies": [
+  
+  ],
+  "tags": [
+    "slack",
+    "chatops",
+    "reporter"
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Centos",
+      "operatingsystemrelease": [
+        "5.0",
+        "6.0",
+        "7.0"
+      ]
+    },
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "12.04",
+        "14.04",
+        "16.04",
+        "18.04"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Gemfile": "c952b81ce28a96b24a3f7112189d4f87",
+  "Gemfile.lock": "56713fadaf89b8ab5563d10ded47d962",
+  "LICENSE": "f14915f8d6e6006981c79be9592cd194",
+  "README.md": "7fa2973c9609b6a1d5cf495baa35fe64",
+  "Rakefile": "0254db5d3fc38c67a2c160d7296a24f8",
+  "lib/puppet/reports/slack.rb": "72e286c4124d5ccf8606bcfac9de6495",
+  "manifests/init.pp": "8a4b647c41bac18c02d0d13d1292c7db",
+  "metadata.json": "7556db2f85480999cf8e35579b3f06c1",
+  "screen.png": "aff6e7da0c7e7cd4a34b105b64236a50"
+}
